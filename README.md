@@ -88,7 +88,3 @@ Sonuçlar Drive'da `PoseCoach_CokluHareket_Sonuclar/<RUN_ADI>/` klasörüne yaz�
 - SciPy `cdist`: https://docs.scipy.org/doc/scipy/reference/generated/scipy.spatial.distance.cdist.html
 
 Kod geliştirme, hata ayıklama ve rapor taslağında üretken yapay zekâ (ChatGPT, Claude) desteği alınmıştır.
-
-## Yazar
-
-Rümeysa Hilal Özkaraman — 503020260009
