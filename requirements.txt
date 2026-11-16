@@ -1,0 +1,11 @@
+# PoseCoach bağımlılıkları (defterdeki %pip satırıyla aynı aralıklar)
+# Test edilen ortam: Python 3.13, MediaPipe 0.10.35, OpenCV 4.14 (Google Colab)
+mediapipe>=0.10.20,<0.11
+pandas>=2,<3
+matplotlib>=3.7,<4
+scipy>=1.10
+numpy
+opencv-python
+# Arayüz hücreleri için
+ipywidgets
+gradio
