@@ -1,6 +1,6 @@
 # PoseCoach — Yoga Hareketi Analizi ve Türkçe Geri Bildirim
 
-Bilgisayarla Görü dersi ara sınav projesi, **Problem 1**: doğru yoga hareketini gösteren referans video ile kullanıcının aynı hareketi yaptığı videoyu karşılaştırır, farkı derece olarak ölçer ve nasıl düzeltileceğini Türkçe söyler.
+Doğru yoga hareketini gösteren referans video ile kullanıcının aynı hareketi yaptığı videoyu karşılaştırır, farkı derece olarak ölçer ve nasıl düzeltileceğini Türkçe söyler.
 
 Örnek çıktı (Tadasana / Açı 1):
 
