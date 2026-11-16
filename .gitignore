@@ -1,0 +1,36 @@
+# Veri seti videoları (büyük dosyalar; Mendeley Data'dan indirilir)
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.m4v
+*.webm
+*.zip
+PoseCoach_Veriler/
+
+# MediaPipe modeli (defter otomatik indirir)
+*.task
+
+# Önbellek ve geçici dosyalar
+ozellik_onbellegi/
+posecoach_video_cache/
+
+# Toplu çalıştırma sonuçları (örnek çıktıları ayrı bir klasöre koyun, ör. ornek_ciktilar/)
+PoseCoach_CokluHareket_Sonuclar/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# İşletim sistemi ve editör dosyaları
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Gradio geçici dosyaları
+.gradio/
+flagged/
